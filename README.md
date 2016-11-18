@@ -68,7 +68,7 @@ i ovenstående udtryk er grundet manglerne i git. De følgende kommandoer ændre
 `git config --global alias.flet merge`
 `git config --global alias.gem stash`
 `git config --global alias.klandre blame`
-`git config --global alias.tilrette amend`
+`git config --global alias.tilret amend`
 `git config --global alias.haandpluk cherry-pick`
 `git config --global alias.marker tag`
 `git config --global alias.mos squash`

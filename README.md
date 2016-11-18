@@ -53,3 +53,26 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
     - Husk at mose dine fastlæggelser, inden du fletter.
 
+## Dagligbrug
+
+Nedenunder er der en række kommandoprompt-instruktioner til at konfigurere et dansk git-miljø. Manglen på danske tegn
+i ovenstående udtryk er grundet manglerne i git. De følgende kommandoer ændrer din `~/.gitconfig` og vil virke globalt.
+
+
+`git config --global alias.hal pull`
+`git config --global alias.puf push`
+`git config --global alias.skyd branch`
+`git config --global alias.hent fetch`
+`git config --global alias.fastlaeg commit`
+`git config --global alias.rebaser rebase`
+`git config --global alias.flet merge`
+`git config --global alias.gem stash`
+`git config --global alias.klandre blame`
+`git config --global alias.tilrette amend`
+`git config --global alias.haandpluk cherry-pick`
+`git config --global alias.marker tag`
+`git config --global alias.mos squash`
+
+`alias djævel=git`
+
+

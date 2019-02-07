@@ -16,16 +16,16 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
 | Udsagnsord  | Nuværende brug | Forslag       |
 |-------------|----------------|---------------|
-| pull        | pulle          | hale          |
-| push        | pushe          | puffe         |
+| pull        | pulle          | trække        |
+| push        | pushe          | skubbe        |
 | fetch       | fetche         | hente         |
-| branch      | branche        | skyde         |
+| branch      | branche        | forgrene      |
 | commit      | committe       | fastlægge     |
-| rebase      | rebase         | rebasere      |
-| merge       | merge          | flette        |
+| rebase      | rebase         | omgøre        |
+| merge       | merge          | sammenflette  |
 | squash      | squashe        | mose          |
-| stash       | stashe         | gemme         |
-| tag         | tagge          | markere       |
+| stash       | stashe         | parkere       |
+| tag         | tagge          | opmærke       |
 | cherry-pick | cherry-picke   | håndplukke    |
 | amend       | amende         | tilrette      |
 | blame       | blame          | klandre       |
@@ -35,21 +35,21 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | repository   | repository     | repositorium, repo |
 | branch       | branch         | gren         |
 | commit       | commit         | fastlæggelse |
-| pull request | pull request   | haleanmodning|
-| stash        | stash          | gemme        |
-| tag          | tag            | mærkning     |
+| pull request | pull request   | trækanmodning|
+| stash        | stash          | parkering    |
+| tag          | tag            | opmærkning   |
 
 ## Eksempler
 
-    - Gider I hale fra den gren, jeg lige har rebaseret og puffet til GitHub?
+    - Gider I trække fra den gren, jeg lige har omgjort og skubbet til GitHub?
 
-    - Jeg har lige skudt en gren og har fastlagt ændringerne fra mit gemme der.
+    - Jeg har lige forgrenet og fastlagt ændringerne fra min parkering der.
 
-    - Send lige en haleanmodning, når du er færdig med fletningen!
+    - Send lige en trækanmodning, når du er færdig med sammenfletningen!
 
     - Det håndplukker vi da bare fra udviklergrenen.
     
-    - Hov, jeg tvangspuffede vistnok til hovedgrenen!
+    - Hov, jeg tvangsskubbede vistnok til hovedgrenen!
 
     - Husk at mose dine fastlæggelser, inden du fletter.
 

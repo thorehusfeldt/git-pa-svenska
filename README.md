@@ -43,7 +43,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
     - Gider I hale fra den gren, jeg lige har rebaseret og puffet til GitHub?
 
-    - Jeg har lige skudt en gren og har fastlagt ændringerne fra mit gemme der.
+    - Jeg har lige forgrenet samt fastlagt ændringerne fra mit gemme der.
 
     - Send lige en haleanmodning, når du er færdig med fletningen!
 

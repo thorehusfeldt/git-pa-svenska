@@ -29,6 +29,8 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | cherry-pick | cherry-picke   | håndplukke    |
 | amend       | amende         | tilrette      |
 | blame       | blame          | klandre       |
+| clone       | clone          | klone         |
+| add         | adde           | tilføje       |
 
 | Navneord     | Nuværende brug | Forslag      |
 |--------------|----------------|--------------|
@@ -53,3 +55,23 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
     - Husk at mose dine fastlæggelser, inden du fletter.
 
+## Daglig brug
+
+
+
+```
+git config --global alias.hale pull
+git config --global alias.puff push
+git config --global alias.hent fetch
+git config --global alias.skyd branch
+git config --global alias.forgren branch
+git config --global alias.fastlag commit
+git config --global alias.flet merge
+git config --global alias.gem stash
+git config --global alias.klandre blame
+git config --global alias.marker tag
+git config --global alias.klon clone
+git config --global alias.tilfoj add
+
+alias gitte=git
+```

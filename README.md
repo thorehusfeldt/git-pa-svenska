@@ -148,7 +148,7 @@ skabe en gaffel.
 
 
 `BØJNING` -r, gemte, gemt  
-`GRAMMATIK` verbum, *nogen* gemer *sine ændringer* 
+`GRAMMATIK` verbum, *nogen* gemmer *sine ændringer* 
 `ENGELSK` *stash* vb. 
 
 >Hvis man står med en beskidt arbejdsmappe er det hurtigste er ofte bare at gemme sine ændringer som »rodebunke« eller *whatever*.

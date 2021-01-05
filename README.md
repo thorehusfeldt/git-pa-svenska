@@ -59,7 +59,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 Du kan få git på dansk i din terminal.
 Kør blot nedenstående, og du er hurtigt på vej væk fra cirkussproget.
 ```bash
-curl https://raw.githubusercontent.com/AlexanderNorup/git-paa-dansk/master/git-paa-dansk.sh | sh
+curl https://raw.githubusercontent.com/thorehusfeldt/git-paa-dansk/master/git-paa-dansk.sh | sh
 ```
 Brug herefter favoritter som `git puf` eller `git klandre` til at udføre dine opgaver.
 

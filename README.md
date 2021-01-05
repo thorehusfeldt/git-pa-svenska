@@ -54,6 +54,17 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
     - Husk at kvase dine fastlæggelser, inden du fletter.
 
 
+# Få git på dansk
+
+Du kan få git på dansk i din terminal.
+Kør blot nedenstående, og du er hurtigt på vej væk fra cirkussproget.
+```bash
+curl https://raw.githubusercontent.com/AlexanderNorup/git-paa-dansk/master/git-paa-dansk.sh | sh
+```
+Brug herefter favoritter som `git puf` eller `git klandre` til at udføre dine opgaver.
+
+Vær opmærksom på at æ, ø og å ikke må forekomme i et git alias. Derfor er æ, ø, å erstattet med ae, oe og aa. 
+
 # Ordliste
 
 ## fastlægge
